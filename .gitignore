@@ -1,14 +1,15 @@
 .gradle
 /local.properties
 /.idea/workspace.xml
+
 .DS_Store
+
 *.*~
 *.~*
 *.bak
 *.log
 *.tmp
 
-#*.keystore
 release/
 dist/
 output/
@@ -20,6 +21,7 @@ builders/
 target/
 out/
 
+#*.keystore
 *.swp
 .rvmrc
 

@@ -1,2 +1,3 @@
 include ':libraries:actionbarsherlock'
+include ':libraries:slidingmenu'
 include ':my3'
